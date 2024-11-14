@@ -101,7 +101,7 @@ function CustomerReviews() {
         </div>
         <p className="relative inline-block flex justify-center mt-[100px]">
           <p className='hover-underline-animation-center font-size-14 relative cursor-pointer text-[16px]'>
-            Lire plus d'avis de nos clients
+            Lire plus d&apos;avis de nos clients
             <span className="absolute bottom-0 left-1/2 w-1/5 h-[2px] bg-current transform -translate-x-1/2" ></span>
           </p>
         </p>
