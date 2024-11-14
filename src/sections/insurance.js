@@ -28,7 +28,7 @@ function Insurance() {
   return (
     <>
       <div className="insurance-wrapper pt-[100px] px-[120px]">
-        <p className=' tl3 text-[20px] text-center font-size-16'>Mila propose aussi des produits d'assurance pour les professionnels de l'immobilier</p>
+        <p className=' tl3 text-[20px] text-center font-size-16'>Mila propose aussi des produits d&apos;assurance pour les professionnels de l&apos;immobilier</p>
         <div className="insurance-card-wrapper grid grid-cols-4 lg:grid-cols-3 gap-[30px] mt-[50px] w-full">
           <div className=' tl3 col-span-4 sm:col-span-4 lg:col-span-1'><InsuranceCard mt={"70px"} heading={"Assurance"} mainHeading={"Propriétaire non occupant"} learnMore={"En savoir plus"} /></div>
           <div className=' tl3 col-span-4 sm:col-span-2 lg:col-span-1'><InsuranceCard mt={"70px"} heading={"Assurance"} mainHeading={"Garantie loyers impayés"} learnMore={"En savoir plus"} /></div>
