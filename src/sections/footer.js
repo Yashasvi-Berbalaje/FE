@@ -17,7 +17,7 @@ function Footer() {
                 </div>
                 <div className="footer-center flex w-[100%] ">
                     <div className="footer-center-left pb-[100px] w-[40%] h-[100%]">
-                        <p className='text-[20px] footer-center-left-text text-align-center font-size-18'>Réinventons ensemble l'assurance de l'immobilier !</p>
+                        <p className='text-[20px] footer-center-left-text text-align-center font-size-18'>Réinventons ensemble l&apos;assurance de l&apos;immobilier !</p>
                         <div className=" display-none hover:scale-[1.2] linkedin-circle h-[50px] mt-[25px] w-[50px] duration-500 border-black border-[1px] rounded-full flex items-center justify-center cursor-pointer hover:bg-black group">
                             <i className="fa-brands fa-linkedin-in text-black text-[20px] group-hover:text-white duration-500"></i>
                         </div>
