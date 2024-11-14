@@ -23,7 +23,7 @@ import axiosInstance from "./axiosInstance";
 import dayjs from "dayjs";
 import AddressSearch from "./AddressSeach";
 import { px } from "framer-motion";
-import Codes from "./Codes.json"
+import Codes from "./codes.json"
 
 // Business Description Options
 const businessDescriptions = [...Object.keys(Codes)
